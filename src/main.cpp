@@ -1,8 +1,8 @@
-#include "Types.h"
-#include "UinputDevice.h"
-#include "PSMovePoller.h"
-#include "FFHandler.h"
-#include "Mapper.h"
+#include "Types.hpp"
+#include "UinputDevice.hpp"
+#include "PSMovePoller.hpp"
+#include "FFHandler.hpp"
+#include "Mapper.hpp"
 #include <iostream>
 #include <csignal>
 #include <atomic>
